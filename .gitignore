@@ -130,3 +130,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pt
+denoising_diffusion_pytorch/CIFAR10/cifar-10-batches-py/data_batch_1
+denoising_diffusion_pytorch/CIFAR10/cifar-10-batches-py/data_batch_2
+denoising_diffusion_pytorch/CIFAR10/cifar-10-batches-py/data_batch_3
+denoising_diffusion_pytorch/CIFAR10/cifar-10-batches-py/data_batch_4
+denoising_diffusion_pytorch/CIFAR10/cifar-10-batches-py/data_batch_5
